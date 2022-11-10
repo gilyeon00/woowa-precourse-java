@@ -1,6 +1,5 @@
 # 미션 - 온보딩
 ## :rocket: 기능 요구 사항
-아래의 7가지 기능 요구 사항을 모두 해결해야 한다.
 - [x] [문제 1](./docs/PROBLEM1.md)
 - [문제 1 풀이](./src/main/java/onboarding/Problem1.java) 
 - [x] [문제 2](./docs/PROBLEM2.md)
